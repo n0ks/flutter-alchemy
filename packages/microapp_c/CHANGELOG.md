@@ -1,3 +1,7 @@
+## 1.2.0
+
+ - **FEAT**: add division.
+
 ## 1.1.0
 
  - **FEAT**: create microapps.
