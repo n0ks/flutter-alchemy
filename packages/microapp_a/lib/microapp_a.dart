@@ -4,4 +4,5 @@ library microapp_a;
 class Calculator {
   /// Returns [value] plus 1.
   int addOne(int value) => value + 1;
+  int multiplyByTwo(int value) => value * 2;
 }
