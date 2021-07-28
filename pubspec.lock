@@ -87,21 +87,21 @@ packages:
       path: "packages/microapp_a"
       relative: true
     source: path
-    version: "1.0.0"
+    version: "1.1.0"
   microapp_b:
     dependency: "direct main"
     description:
       path: "packages/microapp_b"
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.1.0"
   microapp_c:
     dependency: "direct main"
     description:
       path: "packages/microapp_c"
       relative: true
     source: path
-    version: "0.0.1"
+    version: "1.2.0"
   path:
     dependency: transitive
     description:
